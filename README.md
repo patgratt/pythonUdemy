@@ -1,2 +1,1 @@
-# pythonUdemy
-some exercises from this python udemy course:  https://www.udemy.com/course/complete-python-bootcamp/
+tracking my progress on this python udemy course
